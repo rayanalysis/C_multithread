@@ -18,7 +18,6 @@
 #include <fstream>
 #include <sstream>
 #include <stdexcept>
-#include <thread>
 
 using namespace std;
 using namespace std::chrono;
